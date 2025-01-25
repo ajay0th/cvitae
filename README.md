@@ -2,7 +2,7 @@
 
 ### To use this, download the zip file.
 
-![Alt ](zipfile)
+![Alt ](https://github.com/ajay0th/cvitae/blob/main/output/zip.png)
 
 
 ```txt
@@ -13,7 +13,7 @@ Use Online Latex editor, Go to [Overleaf.com](https://www.overleaf.com/), then s
 
 Start Editing
 
-![Alt ](mainpdf)
+![Alt ](https://github.com/ajay0th/cvitae/blob/main/output/main.png)
 
 
 
